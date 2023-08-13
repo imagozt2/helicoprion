@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Hlcrpn>Helicoprion</Hlcrpn>
+      <Hlcrpn_stt>Helicoprion</Hlcrpn_stt>
+      <Hlcrpn_lower>The Helicoprion</Hlcrpn_lower>
+      <Hlcrpn_ltt>
+         <color r="255" g="248" b="178">
+            <b>Helicoprion</b>
+         </color>
+         <br/>
+         Cick to select the Helicoprion.
+      </Hlcrpn_ltt>
+</entityname>
+<zoopedia_hlcrpn>
+ <entry>Helicoprion</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Hlcrpn/Hlcrpn_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation status:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coast<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Tetis sea<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clas: Chondrichthyes <i>(Cartilaginous fish)</i><br/>Order: Eugeneodontiformes <i>(Paraselachimorpha)</i><br/>Family: Agassizodontidae <i>(Helicoprionidae)</i><br/>Genera: <i>Helicoprion</i><br/>Species: <i>H. Bessonovi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Facts of Helicoprion</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Helicoprion measure 4 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Live to Carboniferous to Triassic.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Need 1/2 stars to adopt the Helicoprion.
+   </color>
+   <p/>Helicoprion (Spiral Saw) was a long-lived genus of shark-like cartilaginous fish that first arose in the oceans of the late Carboniferous 310 million years ago, survived the Permian-Triassic Extinction Event, and eventually went extinct during the early Triassic, 225 million years ago. The only known fossils of this animal are the teeth, which were arranged in a fantastic tooth-whorl strongly reminiscent of a circular saw. It was not until the discovery of the skull of a related genus of shark, Ornithoprion, that it was realized that the tooth-whorl was in the lower jaw. The tooth-whorl represented all of the teeth produced by that individual in the lower jaw, in that as the individual grew, with the older, smaller teeth being moved into the center of the whorl by the appearance of larger, newer teeth. Comparisons with other eugenodontids suggest that Helicoprion may have grown up to 10-15 ft (3-4 m) long. It is still not entirely certain where the tooth-whorl was located in the lower jaw. Older reconstructions placed the whorl in the front of the lower jaw. However, a reconstruction, created by Mary Parrish under the direction of Robert Purdy, Victor Springer and Matt Carrano for the Smithsonian, places the whorl deeper into the throat. Other studies have criticized this arrangement, suggesting that the tooth whorl was located in the originally hypothesized position. Additionally, other extinct fish, such as onychodontiformes, have tooth whorls at the front of the jaw, suggesting that such whorls are not as big of an impediment to swimming as suggested in Purdy's hypothesis. While no complete skulls of Helicoprion have been officially described, the fact that related species of sharks had long, pointed snouts suggests that Helicoprion did as well. The individual teeth are serrated, and it is implied that Helicoprion was carnivorous. As there has yet to be an actual skull found, exactly how it captured or fed on its prey is the subject of a great deal of speculation. One hypothesis that it preyed on ammonites and that the teeth were specialized for the job of breaking into the ammonites' shells. Another idea was that the shark would swim into a school of fish and fling out the jaw, snagging prey on its many teeth. Some scientists have suggested, based on the fact that very little wear can be observed on preserved specimen of Helicoprion, that this shark mainly fed on soft-bodied cephalopods like the modern sperm whale. Notable specimens of Helicoprion have been found in eastern Idaho, northern Utah, and the far central western part of Wyoming.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Info from Wikipedia
+  <p/>Maked by Imago
+  </cell>
+ </text>
+</zoopedia_hlcrpn>
+</ZT2Strings>

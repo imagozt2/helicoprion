@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Hlcrpn>Helicoprion</Hlcrpn>
+      <Hlcrpn_stt>Helicoprion</Hlcrpn_stt>
+      <Hlcrpn_lower>El Helicoprion</Hlcrpn_lower>
+      <Hlcrpn_ltt>
+         <color r="255" g="248" b="178">
+            <b>Helicoprion</b>
+         </color>
+         <br/>
+         Haga clic y seleccione un Helicoprion.
+      </Hlcrpn_ltt>
+</entityname>
+<zoopedia_hlcrpn>
+ <entry>Helicoprion</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Hlcrpn/Hlcrpn_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Chondrichthyes <i>(Peces cartilaginosos)</i><br/>Orden: Eugeneodontiformes <i>(Paraselachimorpha)</i><br/>Familia: Agassizodontidae <i>(Helicoprionidae)</i><br/>Genero: <i>Helicoprion</i><br/>Especie: <i>H. Bessonovi</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos del Helicoprion</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Pudo haber vivido desde principios del Carbonifero hasta el Triasico.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Helicoprion media unos 4 metros.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Helicoprion necesitas 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Helicoprion es un genero extinto de peces cartilaginosos del orden Eugeneodontiformes que surgio por primera vez en los oceanos del Carbonifero Superior (hace unos 280 millones de años) y sobrevivio a la extincion masiva del Permico-Triasico, extinguiendose finalmente en el Triasico Superior, hace unos 225 millones de años. Los unicos restos fosiles conocidos eran los dientes, ordenados en una fantastica espiral que recuerda mucho una sierra circular. No fue hasta el descubrimiento del craneo de una especie cercana, Ornithoprion, que se cayo en la cuenta que la espiral de dientes estaba situada en la mandibula inferior. Esta representaba todos los dientes producidos por ese individuo en la mandibula inferior, en la que los dientes mas viejos y pequeños eran desplazados al centro de la espiral a medida que iban apareciendo otros mas nuevos y mayores. Al compararlo con otros eugeneodontidos se piensa que Helicoprion pudo haber alcanzado una talla de unos 4 metros de largo. Los dientes eran aserrados, lo que implica que estos animales eran carnivoros. Ya que actualmente no se dispone de un craneo, su forma de alimentacion o sus tecnicas de depredacion caen dentro del terreno de la especulacion. Una hipotesis es que se alimentaba de ammonites y que sus dientes estaban especializados en la tarea de romper los caparazones de estos animales.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de Wikipedia
+  <p/>Hecho por imago
+  </cell>
+ </text>
+</zoopedia_hlcrpn>
+</ZT2Strings>
